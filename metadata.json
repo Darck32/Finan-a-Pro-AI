@@ -1,0 +1,5 @@
+{
+  "name": "Finança Pro AI",
+  "description": "A comprehensive, enterprise-grade Fintech SaaS frontend architecture demonstrating multi-tenancy, RBAC, financial modules, and Gemini AI integration for financial intelligence.",
+  "requestFramePermissions": []
+}
